@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, i'm David and training to be a React Native dev 👋
 
 <!--
 **EmilianoRoldan94/EmilianoRoldan94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67eb2d6a08b58aed6cf96d02?variant=dark" alt="roadmap.sh"/></a>
